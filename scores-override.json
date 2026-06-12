@@ -1,0 +1,6 @@
+[
+  {"date":"2026-06-11","team1":"Mexico","team2":"South Africa","score":{"ft":[2,0],"ht":[1,0]},"events":[{"team":1,"player":"Julián Quiñones","minute":"9"},{"team":1,"player":"Raúl Jiménez","minute":"67"}]},
+  {"date":"2026-06-11","team1":"South Korea","team2":"Czech Republic","score":{"ft":[2,1],"ht":[0,0]},"events":[{"team":2,"player":"Ladislav Krejčí","minute":"59"},{"team":1,"player":"Hwang In-Beom","minute":"67"},{"team":1,"player":"Oh Hyeon-Gyu","minute":"80"}]},
+  {"date":"2026-06-12","team1":"Canada","team2":"Bosnia & Herzegovina","score":{"ft":[1,1],"ht":[0,1]},"events":[{"team":2,"player":"Jovo Lukić","minute":"21"},{"team":1,"player":"Cyle Larin","minute":"78"}]},
+  {"date":"2026-06-12","team1":"USA","team2":"Paraguay","score":{"ft":[2,1],"ht":[1,0]},"events":[{"team":1,"player":"Christian Pulisic","minute":"18"},{"team":2,"player":"Julio Enciso","minute":"55"},{"team":1,"player":"Folarin Balogun","minute":"70"}]}
+]
